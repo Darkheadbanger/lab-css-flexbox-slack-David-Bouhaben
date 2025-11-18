@@ -158,7 +158,7 @@ header .hero-product-ui {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align: center;
+  text-align: center; 
   padding: 40px 10px;
   background-color: white;
   color: #540b51;
